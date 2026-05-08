@@ -1,1 +1,2 @@
 Hello! It's a test file for adding it to the github project.
+It's an additional string maked straight on git-hub web-UI for simulation of pulling changes.
