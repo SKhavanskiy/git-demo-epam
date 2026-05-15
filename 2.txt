@@ -1,2 +1,4 @@
 It's a second file for my repository for remind a lesson
 It's a second string of this file commited through git-hub web-ui.
+
+It's a third string added from git gui on windows-server-1 machine
